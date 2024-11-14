@@ -159,7 +159,54 @@ ul li:last-child a:hover {
     display: flex;
     position: absolute;
     top: 720px;
+    left: 25px;
+    width: 500px;
+    height: 250px;
+}
+
+.img-w{
+    display: flex;
+    position: absolute;
+    top: 1020px;
     left:10px;
+}
+
+.video-w{
+    display: flex;
+    position: absolute;
+    top: 1110px;
+    left:25px;
+    width: 500px;
+    height: 250px;
+}
+
+.img-e{
+    display: flex;
+    position: absolute;
+    top: 1420px;
+    left:10px;
+}
+
+.video-e{
+    display: flex;
+    position: absolute;
+    top: 1510px;
+    left:25px;
+    width: 500px;
+    height: 250px;
+}
+
+.img-r{
+    display: flex;
+    position: absolute;
+    top: 1820px;
+    left:10px;
+}
+
+.video-r{
+    display: flex;
+    position: absolute;
+    left:25px;
     width: 500px;
     height: 250px;
 }
