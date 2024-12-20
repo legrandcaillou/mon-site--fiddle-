@@ -68,10 +68,10 @@ ul li:last-child a:hover {
     margin: 20px 0;
 }
 
-.video {
+.video1 {
     display: flex;
     top: 200px;
-    left: 1050px;
+    left: 950px;
     position: fixed;
 }
 
