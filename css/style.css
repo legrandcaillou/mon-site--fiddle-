@@ -217,7 +217,7 @@ ul li:last-child a:hover {
     width: 100px;
     height: 120px;
     top: 500px;
-    left: 1250px;
+    left: 1300px;
     position: fixed;
 }
 
@@ -227,7 +227,7 @@ ul li:last-child a:hover {
     width: 100px;
     height: 120px;
     top: 250px;
-    left: 1180px;
+    left: 1280px;
     position: fixed;
 }
 
@@ -242,18 +242,16 @@ ul li:last-child a:hover {
 }
 
 .jgl {
-    display: flex;
-    position: absolute;
+    display: flex; 
     width: 100px;
     height: 120px;
     top: 250px;
-    left: 900px;
+    left: 1000px;
     position: fixed;
 }
 
 .flash {
     display: flex;
-    position: absolute;
     width: 100px;
     height: 120px;
     top: 500px;
