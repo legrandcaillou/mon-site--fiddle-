@@ -833,7 +833,7 @@ ul li:last-child a:hover {
         font-size: 30px;
     }
 
-    /* Assurez-vous que les éléments sont bien visibles */
+
     .video-clear {
         width: 100%;
         height: auto;
@@ -846,10 +846,9 @@ ul li:last-child a:hover {
     }
     .menu li {
         margin-bottom: 10px;
-    }
 
-    /* Espacement pour les éléments de contenu */
+        
     .presentation, .lore, .compétences {
         margin-bottom: 20px;
     }
-}
+
