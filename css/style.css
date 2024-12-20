@@ -798,57 +798,5 @@ ul li:last-child a:hover {
     .menu li {
         margin-bottom: 10px;
     }
-}
 
-/*-----------------media-queries---------------*/
-
-/* Media query pour les téléphones */
-@media screen and (max-width: 768px) {
-    header {
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
-
-    ul {
-        position: static;
-        flex-direction: column;
-        align-items: center;
-        margin-top: 20px;
-    }
-
-    ul li {
-        padding: 5px 10px;
-    }
-
-    .titre {
-        font-size: 24px;
-    }
-
-    .presentation, .lore, .compétences {
-        padding: 5px 20px;
-    }
-
-    .presentation h2, .lore h1 {
-        font-size: 30px;
-    }
-
-
-    .video-clear {
-        width: 100%;
-        height: auto;
-    }
-
-    /* Ajustements pour le menu */
-    .menu {
-        flex-direction: column;
-        align-items: center;
-    }
-    .menu li {
-        margin-bottom: 10px;
-
-        
-    .presentation, .lore, .compétences {
-        margin-bottom: 20px;
-    }
 
