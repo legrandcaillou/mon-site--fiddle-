@@ -70,7 +70,6 @@ ul li:last-child a:hover {
 
 .video {
     display: flex;
-    position: absolute;
     top: 200px;
     left: 850px;
     position: fixed;
